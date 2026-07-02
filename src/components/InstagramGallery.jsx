@@ -1,14 +1,13 @@
 // src/components/InstagramGallery.jsx
 import React from 'react';
+import img1 from '../assets/instagram-1.webp';
+import img2 from '../assets/instagram-2.webp';
+import img3 from '../assets/instagram-3.webp';
+import img4 from '../assets/instagram-4.webp';
+import img5 from '../assets/instagram-5.webp';
+import img6 from '../assets/instagram-6.webp';
 
-const images = [
-  'instagram-1.webp',
-  'instagram-2.webp',
-  'instagram-3.webp',
-  'instagram-4.webp',
-  'instagram-5.webp',
-  'instagram-6.webp',
-];
+const images = [img1, img2, img3, img4, img5, img6];
 
 function InstagramGallery() {
   return (
@@ -20,7 +19,7 @@ function InstagramGallery() {
         </div>
         <div className="instagram-grid">
           {images.map((img, index) => (
-            <img key={index} src={`/src/assets/${img}`} alt={`Instagram ${index+1}`} />
+            <img key={index} src={img} alt={`Instagram ${index+1}`} />
           ))}
         </div>
       </div>
