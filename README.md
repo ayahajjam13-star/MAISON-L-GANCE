@@ -1,16 +1,65 @@
-# React + Vite
+# Maison L'Gance 👗
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Site e-commerce de mode avec interactions JavaScript modernes.
 
-Currently, two official plugins are available:
+![Uploading image.png…]()
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-## React Compiler
+## 🔗 Demo Live
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+👉 **[Voir le site en ligne](https://maison-l-gance-sepia.vercel.app)**
 
-## Expanding the Oxlint configuration
+## 🛠 Technologies
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+- Déployé sur Vercel
+
+## ✨ Fonctionnalités
+
+- 👗 Catalogue de vêtements
+- 🔍 Filtres par catégorie
+- 🛒 Panier interactif
+- 💰 Affichage des prix
+- 📱 Interface responsive
+- ✨ Design moderne et élégant
+
+## 📸 Aperçu
+
+![Uploading image.png…]()
+
+
+## 🚀 Installation locale
+
+\`\`\`bash
+# Cloner le projet
+git clone https://github.com/ayahajjam13-star/MAISON-L-GANCE.git
+
+# Entrer dans le dossier
+cd MAISON-L-GANCE
+
+# Ouvrir le site
+# Double-cliquez sur index.html ou utilisez Live Server
+\`\`\`
+
+## 📂 Structure du projet
+
+\`\`\`
+MAISON-L-GANCE/
+├── index.html
+├── style.css
+├── script.js
+└── images/
+\`\`\`
+
+## 👩‍💻 Auteur
+
+**Aya Hajjam**
+
+- GitHub: [@ayahajjam13-star](https://github.com/ayahajjam13-star)
+- Demo: [maison-l-gance-sepia.vercel.app](https://maison-l-gance-sepia.vercel.app)
+
+---
+
+⭐ N'hésitez pas à mettre une étoile si ce projet vous plaît !
