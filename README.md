@@ -2,7 +2,8 @@
 
 Site e-commerce de mode avec interactions JavaScript modernes.
 
-![Uploading image.png…]()
+<img width="585" height="1266" alt="image" src="https://github.com/user-attachments/assets/757c7f56-57d1-4519-b0e0-604724cc0c65" />
+
 
 
 ## 🔗 Demo Live
@@ -28,6 +29,7 @@ Site e-commerce de mode avec interactions JavaScript modernes.
 ## 📸 Aperçu
 
 ![Uploading image.png…]()
+
 
 
 ## 🚀 Installation locale
